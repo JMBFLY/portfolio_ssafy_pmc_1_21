@@ -1,0 +1,39 @@
+nav{
+    z-index: 99;
+}
+
+.about-list{
+    height: 70vh;
+}
+
+.skill-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 70vh;
+}
+
+.card-list-wrapper{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.list-wrapper{
+    display: flex;
+    width: 500px;
+}
+
+.carousel-item img{
+    height: 96vh;
+}
+
+.sort-center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    border-top: 1px solid #dddddd;
+}
